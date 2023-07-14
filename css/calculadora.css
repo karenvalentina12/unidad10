@@ -1,0 +1,26 @@
+body{
+    background: url("https://as1.ftcdn.net/v2/jpg/06/10/88/80/1000_F_610888020_ujkRMpzkOLHD8dmoUg5CMU9DxqMHQaim.jpg") no-repeat;
+    background-size: cover;
+
+}
+.main-frame-cal{
+    width: 50%;
+    padding: 50px;
+    height: 450px;
+    border-radius: 30px;
+    background-color: rgba(192, 183, 183, 0.759);
+    box-shadow: 0px 0px 20px 0px rgba(211, 168, 228, 0.775);
+    margin: 7% auto;
+}
+.main-frame-cal label{
+    font-weight: bold;
+}
+button{
+    float: right;
+}
+.home{
+    position: absolute;
+    top: 25px;
+    left: 25px;
+    width: 50px;
+}
